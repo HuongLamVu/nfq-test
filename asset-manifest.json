@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/nfq-test/static/css/main.3ce3d608.chunk.css",
+    "main.css": "/nfq-test/static/css/main.3b848af4.chunk.css",
     "main.js": "/nfq-test/static/js/main.f8edbe8a.chunk.js",
     "main.js.map": "/nfq-test/static/js/main.f8edbe8a.chunk.js.map",
     "runtime~main.js": "/nfq-test/static/js/runtime~main.bd1ca2f1.js",
@@ -8,8 +8,8 @@
     "static/js/2.1a2fc4ce.chunk.js": "/nfq-test/static/js/2.1a2fc4ce.chunk.js",
     "static/js/2.1a2fc4ce.chunk.js.map": "/nfq-test/static/js/2.1a2fc4ce.chunk.js.map",
     "index.html": "/nfq-test/index.html",
-    "precache-manifest.901297534b1ca8521b082919b9759911.js": "/nfq-test/precache-manifest.901297534b1ca8521b082919b9759911.js",
+    "precache-manifest.0637623d95649a3f335837e7a237675e.js": "/nfq-test/precache-manifest.0637623d95649a3f335837e7a237675e.js",
     "service-worker.js": "/nfq-test/service-worker.js",
-    "static/css/main.3ce3d608.chunk.css.map": "/nfq-test/static/css/main.3ce3d608.chunk.css.map"
+    "static/css/main.3b848af4.chunk.css.map": "/nfq-test/static/css/main.3b848af4.chunk.css.map"
   }
 }
